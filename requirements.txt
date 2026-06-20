@@ -4,6 +4,6 @@ seaborn==0.13.2
 matplotlib==3.7.5
 scikit-learn==1.3.2
 xgboost==1.6.2
-dill==0.3.7
+dill==0.3.7cls
 Flask==2.3.3
 #-e .
