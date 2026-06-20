@@ -3,7 +3,12 @@ numpy==1.24.4
 seaborn==0.13.2
 matplotlib==3.7.5
 scikit-learn==1.3.2
-xgboost==1.6.2
 dill==0.3.7
 Flask==2.3.3
-#-e .
+#-e .pandas==2.0.3
+numpy==1.24.4
+seaborn==0.13.2
+matplotlib==3.7.5
+scikit-learn==1.3.2
+dill==0.3.7
+Flask==2.3.3
